@@ -10,6 +10,10 @@ _This is Jon Nardine's first attempt at making a website, using principles learn
 
 ## Setup
 
+_Please visit this website:_
+
+https://github.com/jwnardine/MyFirstWebpage
+
 _Not sure what to put here at this point, mainly because accessing index.html seems like a simple procedure which does not involve numerous steps, and all I have to offer are index.html, the CSS modifiers, and the README.md._
 
 ## Technologies Used
